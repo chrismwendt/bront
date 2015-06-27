@@ -11,3 +11,4 @@ In Bront:
 - `_` is narrower
 - `-` is wider (same width as `_`)
 - `*` is centered vertically
+- `G` has a horizontal bar
