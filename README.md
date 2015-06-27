@@ -9,3 +9,4 @@ In Bront:
 - `$` has a full pillar
 - `0` has a slash
 - `_` is narrower
+- `-` is wider (same width as `_`)
