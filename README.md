@@ -14,3 +14,4 @@ In Bront:
 - `G` has a horizontal bar
 - `%` has actual circles
 - `i`, `j`, `l`, and `J` do not have serifs
+- `J` has a longer tail
