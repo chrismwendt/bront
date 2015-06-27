@@ -8,3 +8,4 @@ In Bront:
 
 - `$` has a full pillar
 - `0` has a slash
+- `_` is narrower
