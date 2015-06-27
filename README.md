@@ -12,3 +12,4 @@ In Bront:
 - `-` is wider (same width as `_`)
 - `*` is centered vertically
 - `G` has a horizontal bar
+- `%` has actual circles
