@@ -10,3 +10,4 @@ In Bront:
 - `0` has a slash
 - `_` is narrower
 - `-` is wider (same width as `_`)
+- `*` is centered vertically
