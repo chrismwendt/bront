@@ -13,3 +13,4 @@ In Bront:
 - `*` is centered vertically
 - `G` has a horizontal bar
 - `%` has actual circles
+- `i`, `j`, `l`, and `J` do not have serifs
