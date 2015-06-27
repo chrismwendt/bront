@@ -16,3 +16,4 @@ In Bront:
 - `i`, `j`, `l`, and `J` do not have serifs
 - `J` has a longer tail
 - `*` has 6 spokes
+- `~` is more wavy
