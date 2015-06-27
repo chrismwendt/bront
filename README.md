@@ -7,3 +7,4 @@ Bront is a fork of Ubuntu Mono geared towards programming.
 In Bront:
 
 - `$` has a full pillar
+- `0` has a slash
