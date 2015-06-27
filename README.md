@@ -17,3 +17,4 @@ In Bront:
 - `J` has a longer tail
 - `*` has 6 spokes
 - `~` is more wavy
+- `t` has the same ascender height as `l`
