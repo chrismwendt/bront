@@ -22,3 +22,9 @@ Bront is a fork of Ubuntu Mono geared towards programming.
 ## Repository
 
 https://github.com/chrismwendt/bront
+
+## Development
+
+- **FontForge** http://fontforge.github.io/
+- **Design With FontForge** http://designwithfontforge.com/
+- **ImageMagick** http://www.imagemagick.org/
