@@ -1,10 +1,14 @@
 # Bront
 
-Bront is a fork of Ubuntu Mono geared towards programming.
+Bront is a collection of tweaked fonts geared towards programming.
+
+## Ubuntu Mono - Bront
+
+Screenshot:
 
 ![](http://i.imgur.com/4DiWVRz.png)
 
-## What's different?
+Delta from Ubuntu Mono:
 
 ![](http://i.imgur.com/UQC7aDQ.png)
 
