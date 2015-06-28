@@ -2,6 +2,8 @@
 
 Bront is a fork of Ubuntu Mono geared towards programming.
 
+![](http://i.imgur.com/88d8qwO.png)
+
 ## What's different?
 
 ![](http://i.imgur.com/LnTaZgk.png)
