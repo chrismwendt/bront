@@ -2,11 +2,9 @@
 
 Bront is a fork of Ubuntu Mono geared towards programming.
 
-![](http://i.imgur.com/0CLFFT2.png)
+## What's different?
 
-## How does Bront differ from Ubuntu Mono?
-
-In Bront:
+![](http://i.imgur.com/LnTaZgk.png)
 
 - `$` has a full pillar
 - `0` has a slash
