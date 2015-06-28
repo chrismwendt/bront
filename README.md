@@ -26,12 +26,9 @@ Delta from Ubuntu Mono:
 - `t` has the same ascender height as `l`
 - It has [Powerline](https://github.com/powerline/powerline) symbols
 
-## Repository
+# Development
 
-https://github.com/chrismwendt/bront
-
-## Development
-
+- Repository https://github.com/chrismwendt/bront
 - **FontForge** software http://fontforge.github.io/
 - **Design With FontForge** book http://designwithfontforge.com/
 - **ImageMagick** tool http://www.imagemagick.org/
