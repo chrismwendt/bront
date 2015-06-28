@@ -2,6 +2,27 @@
 
 Bront is a collection of tweaked fonts geared towards programming.
 
+## DejaVu Sans Mono - Bront
+
+Screenshot:
+
+![](http://i.imgur.com/4ysgrgI.png)
+
+Delta from DejaVu Sans Mono:
+
+![](http://i.imgur.com/B46ac0M.png)
+
+- `0` has a slash
+- `*` is centered vertically to align with `+`, `-`, and `=`
+- `_` is narrower in order to discern consecutive characters
+- `-` is the same width as `_`
+- `~` is more wavy in order to further differentiate it from `-`
+- `i` has a tail instead of a bilateral serif
+- `l` has no serif on top
+- `%` has a more angled divider
+- `{` and `}` are the same height as `(` and `)`
+- It has [Powerline](https://github.com/powerline/powerline) symbols
+
 ## Ubuntu Mono - Bront
 
 Screenshot:
