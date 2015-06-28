@@ -20,3 +20,7 @@ In Bront:
 - `*` has 6 spokes
 - `~` is more wavy in order to further differentiate it from `-`
 - `t` has the same ascender height as `l`
+
+## Repository
+
+https://github.com/chrismwendt/bront
