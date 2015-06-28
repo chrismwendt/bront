@@ -25,6 +25,6 @@ https://github.com/chrismwendt/bront
 
 ## Development
 
-- **FontForge** http://fontforge.github.io/
-- **Design With FontForge** http://designwithfontforge.com/
-- **ImageMagick** http://www.imagemagick.org/
+- **FontForge** software http://fontforge.github.io/
+- **Design With FontForge** book http://designwithfontforge.com/
+- **ImageMagick** tool http://www.imagemagick.org/
