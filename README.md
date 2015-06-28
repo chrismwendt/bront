@@ -2,11 +2,11 @@
 
 Bront is a fork of Ubuntu Mono geared towards programming.
 
-![](http://i.imgur.com/88d8qwO.png)
+![](http://i.imgur.com/4DiWVRz.png)
 
 ## What's different?
 
-![](http://i.imgur.com/LnTaZgk.png)
+![](http://i.imgur.com/UQC7aDQ.png)
 
 - `$` has a full pillar
 - `0` has a slash
@@ -15,7 +15,7 @@ Bront is a fork of Ubuntu Mono geared towards programming.
 - `*` is centered vertically to align with `+`, `-`, and `=`
 - `G` has a horizontal bar
 - `%` has actual circles
-- `i`, `j`, `l`, and `J` do not have serifs
+- `j`, `l`, and `J` do not have serifs
 - `J` has a longer tail
 - `*` has 6 spokes
 - `~` is more wavy in order to further differentiate it from `-`
