@@ -33,13 +33,14 @@ Screenshot for Ubuntu Mono - Bront:
 
 ![](http://i.imgur.com/4DiWVRz.png)
 
+Screenshot for Ubuntu Mono Ligatures Bront:
+
+![](screenshots/Ubuntu%20Mono%20Ligatures%20Bront.png)
+
 Delta from Ubuntu Mono:
 
 ![](http://i.imgur.com/UQC7aDQ.png)
 
-Screenshot for Ubuntu Mono Ligatures Bront:
-
-![](screenshots/Ubuntu%20Mono%20Ligatures%20Bront.png)
 - `$` has a full pillar
 - `0` has a slash
 - `_` is narrower in order to discern consecutive characters
