@@ -4,9 +4,11 @@ Bront is a collection of tweaked fonts geared towards programming.
 
 ## DejaVu Sans Mono - Bront
 
-Screenshot:
+Screenshot for DejaVu Sans Mono - Bront:
 
 ![](http://i.imgur.com/4ysgrgI.png)
+
+Screenshot for DejaVu Sans Mono Ligatures Bront:
 
 ![](screenshots/DejaVu%20Sans%20Mono%20Ligatures%20Bront.png)
 
