@@ -4,9 +4,14 @@ Bront is a collection of tweaked fonts geared towards programming.
 
 ## DejaVu Sans Mono - Bront
 
-Screenshot:
+Screenshot for DejaVu Sans Mono - Bront:
 
 ![](http://i.imgur.com/4ysgrgI.png)
+
+Screenshot for DejaVu Sans Mono Ligatures Bront:
+
+![](screenshots/DejaVu%20Sans%20Mono%20Ligatures%20Bront.png)
+![](screenshots/DejaVuLigatures.png)
 
 Delta from DejaVu Sans Mono:
 
@@ -25,9 +30,14 @@ Delta from DejaVu Sans Mono:
 
 ## Ubuntu Mono - Bront
 
-Screenshot:
+Screenshot for Ubuntu Mono - Bront:
 
 ![](http://i.imgur.com/4DiWVRz.png)
+
+Screenshot for Ubuntu Mono Ligatures Bront:
+
+![](screenshots/Ubuntu%20Mono%20Ligatures%20Bront.png)
+![](screenshots/UbuntuLigatures.png)
 
 Delta from Ubuntu Mono:
 
@@ -46,6 +56,11 @@ Delta from Ubuntu Mono:
 - `~` is more wavy in order to further differentiate it from `-`
 - `t` has the same ascender height as `l`
 - It has [Powerline](https://github.com/powerline/powerline) symbols
+
+# How to enable displaying alternate versions of certain characters (stylistic sets)
+For example it is possible to choose between dot/slash in 0 or open/closed @ or $ with | striking through or not.
+
+[How-to-enable-stylistic-sets](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
 
 # Development
 
