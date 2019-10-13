@@ -51,7 +51,8 @@ Delta from Ubuntu Mono:
 - `t` has the same ascender height as `l`
 - It has [Powerline](https://github.com/powerline/powerline) symbols
 
-# How to enable stylistic sets
+# How to enable displaying alternate versions of certain characters (stylistic sets)
+For example it is possible to choose between dot/slash in 0 or open/closed @ or $ with | striking through or not.
 
 [How-to-enable-stylistic-sets](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
 
