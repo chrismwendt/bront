@@ -8,6 +8,8 @@ Screenshot:
 
 ![](http://i.imgur.com/4ysgrgI.png)
 
+![](screenshots/DejaVu%20Sans%20Mono%20Ligatures%20Bront.png)
+
 Delta from DejaVu Sans Mono:
 
 ![](http://i.imgur.com/B46ac0M.png)
