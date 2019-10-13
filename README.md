@@ -47,6 +47,10 @@ Delta from Ubuntu Mono:
 - `t` has the same ascender height as `l`
 - It has [Powerline](https://github.com/powerline/powerline) symbols
 
+# How to enable stylistic sets
+
+[How-to-enable-stylistic-sets](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
+
 # Development
 
 - Repository https://github.com/chrismwendt/bront
