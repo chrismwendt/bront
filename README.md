@@ -11,6 +11,7 @@ Screenshot for DejaVu Sans Mono - Bront:
 Screenshot for DejaVu Sans Mono Ligatures Bront:
 
 ![](screenshots/DejaVu%20Sans%20Mono%20Ligatures%20Bront.png)
+![](screenshots/DejaVuLigatures.png)
 
 Delta from DejaVu Sans Mono:
 
@@ -36,6 +37,7 @@ Screenshot for Ubuntu Mono - Bront:
 Screenshot for Ubuntu Mono Ligatures Bront:
 
 ![](screenshots/Ubuntu%20Mono%20Ligatures%20Bront.png)
+![](screenshots/UbuntuLigatures.png)
 
 Delta from Ubuntu Mono:
 
